@@ -66,7 +66,7 @@ public class UniqueInt {
                 if (secondInt == currentInt) {
                     occurencies++;
                 }
-                if (occurencies > 1) {
+                if (occurencies == 2) {
                     // stworzyc nowego arraya
                     // przekopiowac wartosci duplicate array + jedno miejsce
                     // do ostatniego miejsca wsadzic currentInta
