@@ -3,9 +3,9 @@ package main.lessons.d20210525;
 public class Uniques {
     public static void main(String[] args) {
 
-        int[] array={1,1,2,3,5,6,2,4,6};
+        int[] array = {1, 1, 2, 3, 5, 6, 2, 4, 6};
 
-        int[] uniques=getUniques(array);
+        int[] uniques = getUniques(array);
 
     }
 
